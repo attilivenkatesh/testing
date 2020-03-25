@@ -19,8 +19,8 @@ targetCompatibility = '11'
 
 
 initJGitflow{
-    feature = "feature/"
-    release = "release/"
+    feature = "features/"
+    release = "releases/"
     versiontag = 'v'
 }
 
